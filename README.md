@@ -1,9 +1,9 @@
 # normal
 
-> Next.js project normal template 
-> webpack4 
-> Next.js 7 
-> react 16 
+> Next.js project normal template  
+> webpack4  
+> Next.js 7  
+> react 16  
 
 ## Build Setup
 
